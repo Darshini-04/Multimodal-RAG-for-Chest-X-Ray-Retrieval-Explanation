@@ -1,0 +1,295 @@
+[
+  {
+    "image_id": "216840111366964012819207061112010316094555679_04-017-068.png",
+    "image_path": "C:\\Users\\Shiva\\OneDrive\\Pictures\\Documents\\Code\\minor\\sample\\216840111366964012819207061112010316094555679_04-017-068.png",
+    "report": "The study is within normal limits.",
+    "labels": [
+      "normal"
+    ],
+    "locations": []
+  },
+  {
+    "image_id": "216840111366964012373310883942009181081546904_00-027-172.png",
+    "image_path": "C:\\Users\\Shiva\\OneDrive\\Pictures\\Documents\\Code\\minor\\sample\\216840111366964012373310883942009181081546904_00-027-172.png",
+    "report": "The report indicates elongation of the aorta, which is a radiological sign that may suggest the presence of chronic obstructive pulmonary disease (COPD).",
+    "labels": [
+      "aortic elongation",
+      "COPD signs"
+    ],
+    "locations": [
+      "loc aortic"
+    ]
+  },
+  {
+    "image_id": "126397712012687540784611673197697059691_fp0cu9.png",
+    "image_path": "C:\\Users\\Shiva\\OneDrive\\Pictures\\Documents\\Code\\minor\\sample\\126397712012687540784611673197697059691_fp0cu9.png",
+    "report": "No significant radiological findings. There are no significant changes compared to the previous study from 2012.",
+    "labels": [
+      "unchanged"
+    ],
+    "locations": []
+  },
+  {
+    "image_id": "216840111366964013307756408102012093111819763_01-114-013.png",
+    "image_path": "C:\\Users\\Shiva\\OneDrive\\Pictures\\Documents\\Code\\minor\\sample\\216840111366964013307756408102012093111819763_01-114-013.png",
+    "report": "Blunting costophrenic angle right .",
+    "labels": [
+      "costophrenic angle blunting"
+    ],
+    "locations": [
+      "loc costophrenic angle",
+      "loc right costophrenic angle"
+    ]
+  },
+  {
+    "image_id": "216840111366964012558082906712010004133151165_00-119-134.png",
+    "image_path": "C:\\Users\\Shiva\\OneDrive\\Pictures\\Documents\\Code\\minor\\sample\\216840111366964012558082906712010004133151165_00-119-134.png",
+    "report": "Radiology report shows bilateral infiltrates. There is a small subsegmental atelectasis in the left lower lobe. There is marked elongation of the aortic arch. Cardiomegaly is present. The rest of the findings are without significant change compared to the previous study dated December 29, 2009.",
+    "labels": [
+      "laminar atelectasis",
+      "supra aortic elongation",
+      "cardiomegaly",
+      "unchanged"
+    ],
+    "locations": [
+      "loc supra aortic",
+      "loc left",
+      "loc cardiac",
+      "loc basal",
+      "loc aortic",
+      "loc bilateral",
+      "loc subsegmental"
+    ]
+  },
+  {
+    "image_id": "216840111366964013340662495472012111130929144_01-108-133.png",
+    "image_path": "C:\\Users\\Shiva\\OneDrive\\Pictures\\Documents\\Code\\minor\\sample\\216840111366964013340662495472012111130929144_01-108-133.png",
+    "report": "Lung parenchyma and cardiomediastinal silhouette are within normal limits. Functional value does not provide additional clinical information.",
+    "labels": [
+      "normal"
+    ],
+    "locations": [
+      "loc cardiac"
+    ]
+  },
+  {
+    "image_id": "216840111366964013217898866992011329134906098_01-027-105.png",
+    "image_path": "C:\\Users\\Shiva\\OneDrive\\Pictures\\Documents\\Code\\minor\\sample\\216840111366964013217898866992011329134906098_01-027-105.png",
+    "report": "Report: There is a nodule projecting on the left side measuring 1.4 cm with a partially well-defined contour on the chest CT. There is an interstitial pattern with probable bilateral honeycombing, likely indicating pulmonary fibrosis.",
+    "labels": [
+      "nodule",
+      "interstitial pattern",
+      "pulmonary fibrosis"
+    ],
+    "locations": [
+      "loc basal bilateral",
+      "loc right upper lobe"
+    ]
+  },
+  {
+    "image_id": "216840111366964013293097335992012048173805692_01-094-011.png",
+    "image_path": "C:\\Users\\Shiva\\OneDrive\\Pictures\\Documents\\Code\\minor\\sample\\216840111366964013293097335992012048173805692_01-094-011.png",
+    "report": "No significant findings signific patolog .",
+    "labels": [
+      "normal"
+    ],
+    "locations": []
+  },
+  {
+    "image_id": "216840111366964013451228379692012257110540618_02-006-005.png",
+    "image_path": "C:\\Users\\Shiva\\OneDrive\\Pictures\\Documents\\Code\\minor\\sample\\216840111366964013451228379692012257110540618_02-006-005.png",
+    "report": "The findings are within normal limits.",
+    "labels": [
+      "normal"
+    ],
+    "locations": []
+  },
+  {
+    "image_id": "46523715740384360192496023767246369337_veyewt.png",
+    "image_path": "C:\\Users\\Shiva\\OneDrive\\Pictures\\Documents\\Code\\minor\\sample\\46523715740384360192496023767246369337_veyewt.png",
+    "report": "Lobulacion anterior hemidiafragm right . no significant findings relev .",
+    "labels": [
+      "diaphragmatic eventration"
+    ],
+    "locations": [
+      "loc diaphragm",
+      "loc right"
+    ]
+  },
+  {
+    "image_id": "216840111366964012373310883942009084123158919_00-069-064.png",
+    "image_path": "C:\\Users\\Shiva\\OneDrive\\Pictures\\Documents\\Code\\minor\\sample\\216840111366964012373310883942009084123158919_00-069-064.png",
+    "report": "Report: There is a peripheral subsegmental infiltrate with bronchial wall thickening, which may correspond to an infectious infiltrate or pneumonia in that location. No significant findings otherwise.",
+    "labels": [
+      "infiltrates",
+      "pneumonia"
+    ],
+    "locations": [
+      "loc middle lobe",
+      "loc subsegmental",
+      "loc peribronchi"
+    ]
+  },
+  {
+    "image_id": "255433269247415893224655601475580025849_j5s1kc.png",
+    "image_path": "C:\\Users\\Shiva\\OneDrive\\Pictures\\Documents\\Code\\minor\\sample\\255433269247415893224655601475580025849_j5s1kc.png",
+    "report": "The upper limit of the interstitial lung markings is normal. There are no significant relevant findings.",
+    "labels": [
+      "cardiomegaly"
+    ],
+    "locations": []
+  },
+  {
+    "image_id": "216840111366964013217898866992011349123010433_01-006-043.png",
+    "image_path": "C:\\Users\\Shiva\\OneDrive\\Pictures\\Documents\\Code\\minor\\sample\\216840111366964013217898866992011349123010433_01-006-043.png",
+    "report": "The nasogastric tube is positioned in the stomach, ascending towards the lower third of the esophagus, with a common placement value noted. The rest of the findings show no significant changes.",
+    "labels": [
+      "NSG tube",
+      "unchanged"
+    ],
+    "locations": [
+      "loc esophageal",
+      "loc gastric chamber"
+    ]
+  },
+  {
+    "image_id": "216840111366964013200840352202011315131143616_01-032-099.png",
+    "image_path": "C:\\Users\\Shiva\\OneDrive\\Pictures\\Documents\\Code\\minor\\sample\\216840111366964013200840352202011315131143616_01-032-099.png",
+    "report": "Sign atrap aere . blunting costophrenic angle left .",
+    "labels": [
+      "air trapping",
+      "costophrenic angle blunting"
+    ],
+    "locations": [
+      "loc left costophrenic angle",
+      "loc costophrenic angle"
+    ]
+  },
+  {
+    "image_id": "216840111366964013076187734852011291090122566_00-195-189.png",
+    "image_path": "C:\\Users\\Shiva\\OneDrive\\Pictures\\Documents\\Code\\minor\\sample\\216840111366964013076187734852011291090122566_00-195-189.png",
+    "report": "Cardiomegaly is present. There is interstitial edema with a more pronounced linear septal pattern in the left lung. No significant changes are noted compared to the previous study dated October 17, 2011.",
+    "labels": [
+      "cardiomegaly",
+      "interstitial pattern",
+      "unchanged"
+    ],
+    "locations": [
+      "loc left",
+      "loc cardiac",
+      "loc basal"
+    ]
+  },
+  {
+    "image_id": "216840111366964012948363412702011013123142008_00-125-030.png",
+    "image_path": "C:\\Users\\Shiva\\OneDrive\\Pictures\\Documents\\Code\\minor\\sample\\216840111366964012948363412702011013123142008_00-125-030.png",
+    "report": "No significant findings patolog relev .",
+    "labels": [
+      "normal"
+    ],
+    "locations": []
+  },
+  {
+    "image_id": "216840111366964013829543166512013358092118761_02-089-145.png",
+    "image_path": "C:\\Users\\Shiva\\OneDrive\\Pictures\\Documents\\Code\\minor\\sample\\216840111366964013829543166512013358092118761_02-089-145.png",
+    "report": "Marcapas bicameral . no evident complic .",
+    "labels": [
+      "dual chamber device",
+      "pacemaker"
+    ],
+    "locations": []
+  },
+  {
+    "image_id": "329608354535639464795481936214199434429_kzcyhb.png",
+    "image_path": "C:\\Users\\Shiva\\OneDrive\\Pictures\\Documents\\Code\\minor\\sample\\329608354535639464795481936214199434429_kzcyhb.png",
+    "report": "No significant findings patolog edad pacient .",
+    "labels": [
+      "normal"
+    ],
+    "locations": []
+  },
+  {
+    "image_id": "317759408657031098460852906419716899073_2rq56f.png",
+    "image_path": "C:\\Users\\Shiva\\OneDrive\\Pictures\\Documents\\Code\\minor\\sample\\317759408657031098460852906419716899073_2rq56f.png",
+    "report": "Lung parenchyma and cardiomediastinal silhouette are within normal limits. There is dorsal kyphosis. Signs of dorsal spondyloarthrosis are present. There is a fracture of the anterior tenth rib on the left side.",
+    "labels": [
+      "kyphosis",
+      "vertebral degenerative changes",
+      "rib fracture"
+    ],
+    "locations": [
+      "loc rib",
+      "loc anterior rib",
+      "loc left",
+      "loc cardiac"
+    ]
+  },
+  {
+    "image_id": "101103270798497222826083823719046670601_jw1fu2.png",
+    "image_path": "C:\\Users\\Shiva\\OneDrive\\Pictures\\Documents\\Code\\minor\\sample\\101103270798497222826083823719046670601_jw1fu2.png",
+    "report": "The chest X-ray report indicates cardiomegaly and blunting of both costophrenic angles, suggesting the presence of pleural effusion. The hilar region appears prominent, likely due to vascular origins. Compared to the previous study dated April 29, 2016, there is a noticeable new alveolar infiltrate in the left lower lobe. Given the patient's context, this may suggest a cardiogenic origin with redistribution, although an inflammatory or infectious origin cannot be ruled out, especially considering the presence of fever and leukocytosis in correlation with clinical data.",
+    "labels": [
+      "alveolar pattern",
+      "cardiomegaly",
+      "vascular hilar enlargement",
+      "pleural effusion",
+      "pneumonia",
+      "costophrenic angle blunting",
+      "vascular redistribution",
+      "heart insufficiency"
+    ],
+    "locations": [
+      "loc costophrenic angle",
+      "loc right upper lobe",
+      "loc hilar",
+      "loc cardiac",
+      "loc pleural"
+    ]
+  },
+  {
+    "image_id": "216840111366964013451228379692012269104148390_01-054-004.png",
+    "image_path": "C:\\Users\\Shiva\\OneDrive\\Pictures\\Documents\\Code\\minor\\sample\\216840111366964013451228379692012269104148390_01-054-004.png",
+    "report": "No significant findings patolog signific",
+    "labels": [
+      "normal"
+    ],
+    "locations": []
+  },
+  {
+    "image_id": "216840111366964013395900950222012171101555757_01-139-142.png",
+    "image_path": "C:\\Users\\Shiva\\OneDrive\\Pictures\\Documents\\Code\\minor\\sample\\216840111366964013395900950222012171101555757_01-139-142.png",
+    "report": "No significant radiological findings.",
+    "labels": [
+      "normal"
+    ],
+    "locations": []
+  },
+  {
+    "image_id": "216840111366964014008416513202014153161516671_01-196-149.png",
+    "image_path": "C:\\Users\\Shiva\\OneDrive\\Pictures\\Documents\\Code\\minor\\sample\\216840111366964014008416513202014153161516671_01-196-149.png",
+    "report": "No significant findings signific .",
+    "labels": [
+      "normal"
+    ],
+    "locations": []
+  },
+  {
+    "image_id": "216840111366964013515091760022012318080539431_01-152-111.png",
+    "image_path": "C:\\Users\\Shiva\\OneDrive\\Pictures\\Documents\\Code\\minor\\sample\\216840111366964013515091760022012318080539431_01-152-111.png",
+    "report": "Fractur arcos costal lateral right cuart quint sext septim . condensacion subsegmentari lii descart aspiracion sobreinfeccion respiratori . blunting costophrenic angle left .",
+    "labels": [
+      "rib fracture",
+      "consolidation",
+      "pneumonia",
+      "costophrenic angle blunting"
+    ],
+    "locations": [
+      "loc left costophrenic angle",
+      "loc right",
+      "loc rib",
+      "loc costophrenic angle",
+      "loc subsegmental",
+      "loc left lower lobe"
+    ]
+  }
+]
